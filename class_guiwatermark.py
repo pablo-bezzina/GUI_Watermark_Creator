@@ -89,7 +89,7 @@ class GuiWatermark(tkinter.Tk):
         self.blue_entry = tkinter.Entry(width=20)
         self.blue_entry.grid(column=2, columnspan=1, row=9)
 
-        self.transp_label = tkinter.Label(text="Transparency:")
+        self.transp_label = tkinter.Label(text="Opacity:")
         self.transp_label.grid(column=0, columnspan=1, row=10)
 
         self.transp_variable = IntVar()
