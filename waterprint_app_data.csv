@@ -1,0 +1,21 @@
+﻿color,color_code,r,g,b
+Black,#000000,0,0,0
+Blue,#0F4C75,15,76,117
+Blue - dark,#1B262C,27,38,44
+Blue - light,#8BBCCC,139,188,204
+Brown,#522E24,82,46,36
+Brown - light,#804D3B,128,77,59
+Gray,#A59D84,165,157,132
+Gray - dark,#3C3D37,60,61,55
+Gray - light,#C1BAA1,193,186,161
+Green,#347928,52,121,40
+Green - dark,#355F2E,53,95,46
+Green - light,#9BEC00,155,236,0
+Orange,#FF8303,255,131,3
+Pink,#FF77B7,255,119,183
+Purple,#441752,68,23,82
+Red,#FF1E00,255,30,0
+Red - dark,#800000,128,0,0
+Violet,#CB9DF0,203,157,240
+White,#FBFBFB,251,251,251
+Yellow,#FFE31A,255,227,26
